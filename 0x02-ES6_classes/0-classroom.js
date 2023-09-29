@@ -4,7 +4,7 @@
 export default class ClassRoom {
   /**
    * Creates a new @see {@link ClassRoom}.
-   * @param (Number) maxStudentsSize - The maximum number of
+   * @param {Number} maxStudentsSize - The maximum number of
    * students in the class
    */
   constructor(maxStudentsSize) {
