@@ -3,8 +3,9 @@
  */
 export default class ClassRoom {
   /**
-   * Creates a new attribute
-   * @param (Number) maxStudentsSize
+   * Creates a new @see {@link Classroom}.
+   * @param (Number) maxStudentsSize - The maximum number of
+   * students in class
    */
   constructor(maxStudentsSize) {
     this._maxStudentsSize = maxStudentsSize;
