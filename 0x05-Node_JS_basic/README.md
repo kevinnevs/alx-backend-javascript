@@ -1,0 +1,1 @@
+This is a directory to the project NodeJS Basics. In learing NodeJs concepts, ExpressJS concepts & using Mocha framework in testing our code. As well as Nodemon in making changes to our applications without restarting the servers.
